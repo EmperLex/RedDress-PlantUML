@@ -241,7 +241,6 @@ skinparam object {
   arrow_style()
 
   attributeFontColor $SECONDARY
-  attributeFontName $FONTNAME
   attributeFontSize $FONTSIZE
 }
 
